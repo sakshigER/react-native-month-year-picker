@@ -13,7 +13,7 @@
   
             <NumberPicker
                 android:id="@+id/month_picker"
-                android:layout_width="400px"
+                android:layout_width="300px"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="3dp"
                 android:descendantFocusability="blocksDescendants"
